@@ -1,0 +1,23 @@
+#   pip install -r Requirements.txt
+#   ctrl + j to open terminal.
+
+SpeechRecognition==3.8.1
+mtranslate
+Colorama
+pyaudio
+selenium
+webdriver-manager
+pyttsx3
+asyncio
+edge_tts
+pygame
+playsound==1.2.2
+pyautogui
+pywhatkit
+psutil
+BrokenLeaf-STT
+plyer
+requests
+winotify
+BL-TTS==0.1
+BrokenLeaf_TTS

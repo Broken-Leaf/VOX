@@ -1,0 +1,8 @@
+19:30PM = Sir this is your study time
+18:35PM = Sir this is your study time
+20:00PM = Sir coding ka time ho gya
+21:15PM = Sir it's your dinner time
+17:00PM = Sir this is your play time
+22:00PM = Sir its time for some sleep
+23:03PM = Sir please sleep its already very late
+
